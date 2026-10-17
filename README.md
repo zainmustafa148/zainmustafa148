@@ -1,4 +1,4 @@
-# Hi, I'm Zain Mustafa 👋
+# Hi, I'm Zain Mustafa
 
 ### Python | Machine Learning | Data Science | AI Engineering
 
@@ -6,14 +6,14 @@ I build my technical skills through practical Python and Machine Learning projec
 
 I'm pursuing a degree in Software Engineering and currently gaining experience through an internship with **CODE HATCHERS**. I'm preparing for entry-level opportunities where I can contribute, keep learning, and grow through real-world technical work.
 
-## 🎯 Career Focus
+## Career Focus
 
 - **Primary:** Python, Machine Learning, Data Science
 - **Growing focus:** AI Engineering, Generative AI, and practical AI applications
 - **Supporting foundation:** Software Engineering principles, programming fundamentals, databases, and problem-solving
 - **Current goal:** Build and document projects that demonstrate practical skills for entry-level roles in Python, Machine Learning, and Data Science
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 - **Programming & Data:** Python, Pandas
 - **Machine Learning:** Core ML concepts and hands-on model-building practice
@@ -23,7 +23,7 @@ I'm pursuing a degree in Software Engineering and currently gaining experience t
 
 *Skills listed here reflect my current learning and experience; I continue to strengthen them through practical work.*
 
-## 🚀 Projects
+## rojects
 
 I’m building a portfolio of practical projects and will keep this section focused on work with clear documentation, reproducible steps, and honest explanations of results.
 
@@ -31,7 +31,7 @@ I’m building a portfolio of practical projects and will keep this section focu
 
 As I publish more work, this section will highlight the problem, dataset, approach, evaluation, and key takeaways for each project.
 
-## 🌱 Current Learning
+## Current Learning
 
 - Strengthening Python and data analysis with Pandas
 - Improving my understanding of Machine Learning workflows and model evaluation
@@ -39,17 +39,17 @@ As I publish more work, this section will highlight the problem, dataset, approa
 - Exploring Generative AI and AI Engineering step by step
 - Writing clear READMEs and making projects easier to run and review
 
-## 💼 Experience
+## Experience
 
 **Intern — CODE HATCHERS**
 
 Learning through mentorship and practical technical work while continuing to develop my programming and project-building skills.
 
-## 🤝 Opportunities
+## Opportunities
 
 I'm open to **entry-level opportunities and internships** related to Python, Machine Learning, Data Science, and AI-focused development. I'm especially interested in teams where I can contribute to real projects, receive feedback, and continue growing as an engineer.
 
-## 📫 Connect
+## Connect
 
 - **LinkedIn:** [Zain Mustafa](https://www.linkedin.com/in/zain-mustafa148/)
 - **GitHub:** [zainmustafa148](https://github.com/zainmustafa148)
