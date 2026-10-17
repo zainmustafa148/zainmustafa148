@@ -1,91 +1,59 @@
 # Hi, I'm Zain Mustafa 👋
 
-### Software Engineering Student | Full Stack Developer | Machine Learning Enthusiast
+### Python | Machine Learning | Data Science | AI Engineering
 
-I'm currently pursuing a BS in Software Engineering and building my skills in Full Stack Development, software engineering fundamentals, and Machine Learning.
+I build my technical skills through practical Python and Machine Learning projects, with a growing focus on Data Science and AI Engineering. I enjoy exploring datasets, preparing data, understanding model behaviour, and turning what I learn into useful, well-documented projects.
 
-I enjoy developing practical applications, solving programming problems, working with databases, and exploring how data-driven approaches can help solve real-world problems.
+I'm pursuing a degree in Software Engineering and currently gaining experience through an internship with **CODE HATCHERS**. I'm preparing for entry-level opportunities where I can contribute, keep learning, and grow through real-world technical work.
 
-I'm currently undertaking an internship with **CODE HATCHERS** while continuing to learn through hands-on projects.
+## 🎯 Career Focus
 
-## 👨‍💻 About Me
+- **Primary:** Python, Machine Learning, Data Science
+- **Growing focus:** AI Engineering, Generative AI, and practical AI applications
+- **Supporting foundation:** Software Engineering principles, programming fundamentals, databases, and problem-solving
+- **Current goal:** Build and document projects that demonstrate practical skills for entry-level roles in Python, Machine Learning, and Data Science
 
-- 🎓 BS Software Engineering student
-- 💻 Interested in Full Stack and Backend Development
-- 🤖 Exploring Machine Learning and Data Science
-- 🧠 Strengthening my understanding of Object-Oriented Programming (OOP) and Data Structures & Algorithms (DSA)
-- 🌱 Exploring Generative AI and AI Engineering as future learning directions
-- 🤝 Open to learning, collaboration, and relevant internship opportunities
+## 🛠️ Technical Skills
 
-## 🛠️ Technologies & Skills
+- **Programming & Data:** Python, Pandas
+- **Machine Learning:** Core ML concepts and hands-on model-building practice
+- **Data Science:** Data handling, preprocessing, and exploratory analysis
+- **Software Engineering:** OOP fundamentals, problem-solving, Git, and GitHub
+- **Additional exposure:** SQL, MySQL, Flask, React, JavaScript, HTML, and CSS
 
-**Languages**
-- Python
-- JavaScript
-- SQL
-
-**Frontend**
-- React.js
-- HTML5
-- CSS3
-- Responsive Web Design
-
-**Backend**
-- Flask
-- REST API integration
-- Backend application development
-
-**Databases**
-- MySQL
-- SQL queries
-- Database design fundamentals
-
-**Machine Learning & Data**
-- Pandas
-- Data preprocessing
-- Machine Learning fundamentals
-
-**Software Engineering**
-- Object-Oriented Programming (OOP)
-- Data Structures & Algorithms (DSA)
-- Git & GitHub
-- Software testing
-- Problem solving
-
-**Additional Experience**
-- WordPress
+*Skills listed here reflect my current learning and experience; I continue to strengthen them through practical work.*
 
 ## 🚀 Projects
 
-### Bangalore Home Prices
+I’m building a portfolio of practical projects and will keep this section focused on work with clear documentation, reproducible steps, and honest explanations of results.
 
-A project related to house-price prediction and Machine Learning.
+- **Bangalore Home Prices** — a house-price prediction / Machine Learning project. Project details and the verified repository link will be added once the correct repository is available.
 
-**Current focus:** Building practical experience with Python, data handling, and Machine Learning concepts.
+As I publish more work, this section will highlight the problem, dataset, approach, evaluation, and key takeaways for each project.
 
-> Project repository link and implementation details will be added here once the correct repository URL is available.
+## 🌱 Current Learning
 
-## 🎯 Current Learning Goals
-
-- Strengthen Full Stack and Backend Development skills
-- Build a stronger foundation in Data Science
-- Explore Generative AI and Large Language Models
-- Learn to develop and deploy practical AI applications
-- Apply software engineering best practices to projects
+- Strengthening Python and data analysis with Pandas
+- Improving my understanding of Machine Learning workflows and model evaluation
+- Developing stronger Data Science project practices
+- Exploring Generative AI and AI Engineering step by step
+- Writing clear READMEs and making projects easier to run and review
 
 ## 💼 Experience
 
-**CODE HATCHERS — Intern**
+**Intern — CODE HATCHERS**
 
-Developing my technical knowledge and gaining practical exposure through an internship.
+Learning through mentorship and practical technical work while continuing to develop my programming and project-building skills.
 
-## 📫 Connect With Me
+## 🤝 Opportunities
+
+I'm open to **entry-level opportunities and internships** related to Python, Machine Learning, Data Science, and AI-focused development. I'm especially interested in teams where I can contribute to real projects, receive feedback, and continue growing as an engineer.
+
+## 📫 Connect
 
 - **LinkedIn:** [Zain Mustafa](https://www.linkedin.com/in/zain-mustafa148/)
 - **GitHub:** [zainmustafa148](https://github.com/zainmustafa148)
 
-I'm interested in learning, collaborating, and building useful software.
-
 ---
 
-*Learning continuously. Building practically. Growing towards intelligent software solutions.*
+*Learning with purpose. Building through projects. Growing towards AI Engineering.*
