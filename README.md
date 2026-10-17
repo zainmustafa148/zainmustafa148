@@ -23,7 +23,7 @@ I'm pursuing a degree in Software Engineering and currently gaining experience t
 
 *Skills listed here reflect my current learning and experience; I continue to strengthen them through practical work.*
 
-## rojects
+## Projects
 
 I’m building a portfolio of practical projects and will keep this section focused on work with clear documentation, reproducible steps, and honest explanations of results.
 
