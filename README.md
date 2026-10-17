@@ -1,43 +1,91 @@
-# Hi, I'm Zain Mustafa
+# Hi, I'm Zain Mustafa 👋
 
-### Machine Learning | Data Science | AI Engineering
+### Software Engineering Student | Full Stack Developer | Machine Learning Enthusiast
 
-I'm passionate about Machine Learning and building practical, data-driven solutions to real-world problems.
+I'm currently pursuing a BS in Software Engineering and building my skills in Full Stack Development, software engineering fundamentals, and Machine Learning.
 
-My journey so far has focused on hands-on Machine Learning projects, exploring data, experimenting with models, and continuously improving my problem-solving and programming skills.
+I enjoy developing practical applications, solving programming problems, working with databases, and exploring how data-driven approaches can help solve real-world problems.
 
-I'm also involved in mentorship and collaborative learning through local initiatives, where I aim to learn, share knowledge, and grow through practical experience.
+I'm currently undertaking an internship with **CODE HATCHERS** while continuing to learn through hands-on projects.
 
-### What I'm Working Towards
+## 👨‍💻 About Me
 
-- Strengthening my Machine Learning foundations
-- Exploring Data Science and data-driven problem-solving
-- Learning Generative AI and modern AI technologies
-- Moving towards AI Engineering and practical AI applications
-- Learning through mentorship, collaboration, and real-world projects
+- 🎓 BS Software Engineering student
+- 💻 Interested in Full Stack and Backend Development
+- 🤖 Exploring Machine Learning and Data Science
+- 🧠 Strengthening my understanding of Object-Oriented Programming (OOP) and Data Structures & Algorithms (DSA)
+- 🌱 Exploring Generative AI and AI Engineering as future learning directions
+- 🤝 Open to learning, collaboration, and relevant internship opportunities
 
-### Technical Interests
+## 🛠️ Technologies & Skills
 
-- Machine Learning
-- Data Science
-- Python & Data Analysis
-- Generative AI
-- AI Engineering
-- Model Development & Evaluation
+**Languages**
+- Python
+- JavaScript
+- SQL
 
-### Projects
+**Frontend**
+- React.js
+- HTML5
+- CSS3
+- Responsive Web Design
 
-I use this GitHub profile to document my learning journey, showcase practical projects, and share implementations related to Machine Learning, Data Science, and Artificial Intelligence.
+**Backend**
+- Flask
+- REST API integration
+- Backend application development
 
-Explore my repositories to see my work and ongoing progress.
+**Databases**
+- MySQL
+- SQL queries
+- Database design fundamentals
 
-### Let's Connect
+**Machine Learning & Data**
+- Pandas
+- Data preprocessing
+- Machine Learning fundamentals
 
-- LinkedIn: [Connect with me](https://www.linkedin.com/in/zain-mustafa148/)
-- GitHub: [Explore my repositories](https://github.com/zainmustafa148)
+**Software Engineering**
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms (DSA)
+- Git & GitHub
+- Software testing
+- Problem solving
 
-I'm always interested in learning, collaborating, and building useful technology.
+**Additional Experience**
+- WordPress
+
+## 🚀 Projects
+
+### Bangalore Home Prices
+
+A project related to house-price prediction and Machine Learning.
+
+**Current focus:** Building practical experience with Python, data handling, and Machine Learning concepts.
+
+> Project repository link and implementation details will be added here once the correct repository URL is available.
+
+## 🎯 Current Learning Goals
+
+- Strengthen Full Stack and Backend Development skills
+- Build a stronger foundation in Data Science
+- Explore Generative AI and Large Language Models
+- Learn to develop and deploy practical AI applications
+- Apply software engineering best practices to projects
+
+## 💼 Experience
+
+**CODE HATCHERS — Intern**
+
+Developing my technical knowledge and gaining practical exposure through an internship.
+
+## 📫 Connect With Me
+
+- **LinkedIn:** [Zain Mustafa](https://www.linkedin.com/in/zain-mustafa148/)
+- **GitHub:** [zainmustafa148](https://github.com/zainmustafa148)
+
+I'm interested in learning, collaborating, and building useful software.
 
 ---
 
-*Learning continuously. Building practically. Growing towards AI Engineering.*
+*Learning continuously. Building practically. Growing towards intelligent software solutions.*
